@@ -1,2 +1,2 @@
-# variables
-Deep Dive Prework Variables
+# fundamentals
+Deep Dive Prework Fundamentals
